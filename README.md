@@ -1,2 +1,2 @@
 # Weibo
-MVVM Weibo in Swift 3.1
+[项目源码](https://git.oschina.net/Oneselfly/Weibo)
